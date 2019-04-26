@@ -2,14 +2,6 @@
 
 A tool to visualize transactions propogating through the Radix network, as well as network conflicts being resolved
 
-## Prerequisites
-
-[![node][node]][node-url]
-[![npm][npm]][npm-url]
-
-- [Node.js](http://es6-features.org)
-
-
 1. Run `npm install`
 2. Start the dev server using `npm start`
 3. Open [http://localhost:9000](http://localhost:9000)
